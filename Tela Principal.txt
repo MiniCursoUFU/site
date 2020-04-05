@@ -1,3 +1,1 @@
-TelaPrincipal{
-
-}
+print("Olá mundo")
